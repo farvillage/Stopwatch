@@ -1,0 +1,14 @@
+/Users/farvillage/Stopwatch/bin/Debug/net8.0/Stopwatch
+/Users/farvillage/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/Users/farvillage/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/Users/farvillage/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/Users/farvillage/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/Users/farvillage/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farvillage/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/farvillage/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/Users/farvillage/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/farvillage/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/Users/farvillage/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/Users/farvillage/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/Users/farvillage/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/Users/farvillage/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
